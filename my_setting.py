@@ -8,6 +8,5 @@ DATABASES = {
         'PORT': '3306',
     }
 }
-SECRET = {
-        'secret':'=6xvu3t)6+8k8vi@b-(g4=2ah$@vi*^f@h#fraf)mc-_3@xw8t',
-}
+SECRET = '6xvu3t)6+8k8vi@b-(g4=2ah$@vi*^f@h#fraf)mc-_3@xw8t',
+
